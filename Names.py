@@ -21,4 +21,4 @@ for key, data in users.items():
 		name_count = len(value["first_name"]) + len(value["last_name"])
 		
 		print("%d - %s - %d" %(counter, full_name_upper, name_count))
-                                                   
+                #print("counter, full_name_upper, name_count)                                                 
